@@ -12,5 +12,4 @@ Start:
 
 Go to: 
 - `localhost:3000` <br>
-Or :
-- `https://eventbrite-thp-mtp.herokuapp.com/`
+
