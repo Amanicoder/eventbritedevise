@@ -12,4 +12,5 @@ Start:
 
 Go to: 
 - `localhost:3000` <br>
-
+or 
+https://eventbrite-thp2020.herokuapp.com/
